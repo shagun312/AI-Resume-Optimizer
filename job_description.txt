@@ -1,0 +1,18 @@
+Senior Backend Engineer — DataFlow Inc.
+
+We are looking for a Senior Backend Engineer to join our growing platform team.
+
+Responsibilities:
+- Design and build scalable REST and GraphQL APIs
+- Own and optimize PostgreSQL and Redis data layers
+- Lead technical design discussions and mentor junior engineers
+- Improve CI/CD pipelines and deployment reliability
+- Collaborate with data science team on ML model serving infrastructure
+
+Requirements:
+- 4+ years of backend development experience
+- Strong Python skills (FastAPI or Flask preferred)
+- Experience with containerization (Docker, Kubernetes)
+- PostgreSQL performance tuning experience
+- Familiarity with AWS services (ECS, RDS, S3)
+- Excellent communication skills
